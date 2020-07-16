@@ -2,6 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mdribeiro/)](https://github.com/mdribeiro/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-dias-ribeiro-401a3325/)](https://www.linkedin.com/in/mateus-dias-ribeiro-401a3325/)
+[![Work Badge](https://img.shields.io/badge/-DFKI-darkblue?style=flat-square&logoColor=white&link=https://www.dfki.de/en/web/about-us/employee/person/madi03/)](https://www.dfki.de/en/web/about-us/employee/person/madi03/)
 
 
 <!--**mdribeiro/mdribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
