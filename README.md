@@ -2,7 +2,10 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mdribeiro/)](https://github.com/mdribeiro/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-dias-ribeiro-401a3325/)](https://www.linkedin.com/in/mateus-dias-ribeiro-401a3325/)
+[![gscholar](https://img.shields.io/badge/Google-scholar-blue?logo=https://user-images.githubusercontent.com/4565568/29706177-1b3f8d24-8981-11e7-94dd-f561724011ab.png)](https://scholar.google.com/citations?user=x3e6HLQAAAAJ&hl=pt-BR)
+[![rgate](https://img.shields.io/badge/Research-gate-blue?logo=https://user-images.githubusercontent.com/4565568/29706177-1b3f8d24-8981-11e7-94dd-f561724011ab.png)](https://www.researchgate.net/profile/Mateus_Dias_Ribeiro)
 [![Work Badge](https://img.shields.io/badge/DFKI-Work-blue)](https://www.dfki.de/en/web/about-us/employee/person/madi03/)
+
 
 Based in Kaiserslautern, Germany.
 
